@@ -1,5 +1,5 @@
-# Copyright (c) 2025 PRIME <PRIME>
-# Location: Katihar, Bihar
+# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
+# Location: Supaul, Bihar
 #
 # All rights reserved.
 #
@@ -17,7 +17,8 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: PrimeMusic24h@gmail.com
+# Email: badboy809075@gmail.com
+
 
 import os
 
@@ -41,12 +42,13 @@ def dirr():
     LOGGER(__name__).info("Directories Updated.")
 
 
-# ©️ Copyright Reserved - @PrimeXMusic  PRIME
+# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+
 # ===========================================
-# ©️ 2025 PRIME (aka @PrimeXMusic)
+# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/Primexmusicupdate
+# 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
 
 
-# ❤️ Love From PRIME
+# ❤️ Love From ShrutiBots 
